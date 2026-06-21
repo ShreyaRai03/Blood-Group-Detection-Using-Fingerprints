@@ -41,7 +41,7 @@ pip install -r requirements.txt
 python main.py
 
 ---
-Project Structure
+### Project Structure
 
 ```
 BloodGroupDetection/
@@ -52,3 +52,14 @@ BloodGroupDetection/
 ├── requirements.txt
 └── README.md
 ```
+---
+
+### Results
+
+- The model successfully classifies fingerprint patterns into corresponding blood group categories with reasonable accuracy based on the trained dataset.
+
+### Future Improvements
+- Improve accuracy using Deep Learning (CNN)
+- Expand dataset for better generalization
+- Deploy as a web application using Flask or Streamlit
+- Enhance feature extraction techniques
