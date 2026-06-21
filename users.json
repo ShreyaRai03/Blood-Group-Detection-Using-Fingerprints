@@ -1,0 +1,543 @@
+{
+    "Shreya": {
+        "password": "62aa325a7028224b84566db2915707af739cae2b8ccd37b7a23117a6f3bdc880",
+        "email": "shreyarai373@gmail.com",
+        "created_at": "2025-11-08 16:33:26",
+        "detections": [
+            {
+                "timestamp": "2025-11-08 16:34:05",
+                "blood_group": "A-",
+                "confidence": 12.921501696109772,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-08 16:35:09",
+                "blood_group": "A-",
+                "confidence": 12.901632487773895,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/dataset/AB+/cluster_4_12.png"
+            },
+            {
+                "timestamp": "2025-11-08 16:35:31",
+                "blood_group": "A-",
+                "confidence": 13.019299507141113,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/dataset/O-/cluster_7_9.png"
+            },
+            {
+                "timestamp": "2025-11-08 17:31:51",
+                "blood_group": "O+",
+                "confidence": 84.07771587371826,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/O+/cluster_6_3.png"
+            },
+            {
+                "timestamp": "2025-11-08 17:32:12",
+                "blood_group": "B+",
+                "confidence": 99.99343156814575,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB+/cluster_4_15.png"
+            },
+            {
+                "timestamp": "2025-11-08 17:32:32",
+                "blood_group": "AB-",
+                "confidence": 99.95023012161255,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B-/cluster_3_7.png"
+            },
+            {
+                "timestamp": "2025-11-08 17:32:53",
+                "blood_group": "AB-",
+                "confidence": 99.35384392738342,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B-/cluster_3_34.png"
+            },
+            {
+                "timestamp": "2025-11-09 20:54:34",
+                "blood_group": "AB-",
+                "confidence": 99.99995231628418,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B-/cluster_3_50.png"
+            },
+            {
+                "timestamp": "2025-11-09 21:00:24",
+                "blood_group": "A+",
+                "confidence": 100.0,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_127.png"
+            },
+            {
+                "timestamp": "2025-11-13 12:30:49",
+                "blood_group": "A+",
+                "confidence": 100.0,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_16.png"
+            },
+            {
+                "timestamp": "2025-11-13 12:31:21",
+                "blood_group": "B-",
+                "confidence": 56.82498216629028,
+                "image_path": "C:/Users/HP/OneDrive/Pictures/Saved Pictures/shr.jpg"
+            },
+            {
+                "timestamp": "2025-11-15 13:10:10",
+                "blood_group": "B-",
+                "confidence": 66.16889238357544,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-17 12:28:49",
+                "blood_group": "B-",
+                "confidence": 66.16889238357544,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-17 12:29:03",
+                "blood_group": "B-",
+                "confidence": 99.99932050704956,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B+/cluster_2_6.png"
+            },
+            {
+                "timestamp": "2025-11-17 12:29:19",
+                "blood_group": "B-",
+                "confidence": 99.9997615814209,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB-/cluster_5_8.png"
+            },
+            {
+                "timestamp": "2025-11-17 13:00:29",
+                "blood_group": "B-",
+                "confidence": 99.93355870246887,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB-/cluster_5_8.png"
+            },
+            {
+                "timestamp": "2025-11-17 13:00:49",
+                "blood_group": "O-",
+                "confidence": 99.86163377761841,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/O-/cluster_7_9.png"
+            },
+            {
+                "timestamp": "2025-11-17 23:16:53",
+                "blood_group": "O-",
+                "confidence": 99.99940395355225,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/O-/cluster_7_35.png"
+            },
+            {
+                "timestamp": "2025-11-17 23:17:14",
+                "blood_group": "B+",
+                "confidence": 51.74072980880737,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB+/cluster_4_12.png"
+            },
+            {
+                "timestamp": "2025-11-17 23:17:26",
+                "blood_group": "O-",
+                "confidence": 96.43522500991821,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB+/cluster_4_4.png"
+            },
+            {
+                "timestamp": "2025-11-18 22:03:54",
+                "blood_group": "B+",
+                "confidence": 96.48480415344238,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB+/cluster_4_12.png"
+            },
+            {
+                "timestamp": "2025-11-18 22:03:59",
+                "blood_group": "B+",
+                "confidence": 96.48480415344238,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB+/cluster_4_12.png"
+            },
+            {
+                "timestamp": "2025-11-18 22:04:06",
+                "blood_group": "O-",
+                "confidence": 91.92793369293213,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB+/cluster_4_4.png"
+            },
+            {
+                "timestamp": "2025-11-18 22:04:19",
+                "blood_group": "A+",
+                "confidence": 100.0,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_16.png"
+            },
+            {
+                "timestamp": "2025-11-18 22:04:39",
+                "blood_group": "B-",
+                "confidence": 95.5919861793518,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B+/cluster_2_6.png"
+            },
+            {
+                "timestamp": "2025-11-20 10:01:54",
+                "blood_group": "B-",
+                "confidence": 95.5919861793518,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B+/cluster_2_6.png"
+            },
+            {
+                "timestamp": "2025-11-21 11:48:10",
+                "blood_group": "A+",
+                "confidence": 95.22011876106262,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_26.png"
+            },
+            {
+                "timestamp": "2025-11-21 11:48:54",
+                "blood_group": "O-",
+                "confidence": 66.51604175567627,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB+/cluster_4_4.png"
+            },
+            {
+                "timestamp": "2025-11-21 11:49:19",
+                "blood_group": "O-",
+                "confidence": 66.51604175567627,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB+/cluster_4_4.png"
+            },
+            {
+                "timestamp": "2025-11-21 12:37:49",
+                "blood_group": "O-",
+                "confidence": 99.99313354492188,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB+/cluster_4_4.png"
+            },
+            {
+                "timestamp": "2025-11-21 12:37:57",
+                "blood_group": "O-",
+                "confidence": 99.99313354492188,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB+/cluster_4_4.png"
+            },
+            {
+                "timestamp": "2025-11-21 12:38:07",
+                "blood_group": "O-",
+                "confidence": 88.75612616539001,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-21 12:38:30",
+                "blood_group": "O-",
+                "confidence": 88.75612616539001,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-21 13:06:36",
+                "blood_group": "O-",
+                "confidence": 98.11944365501404,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-21 13:09:28",
+                "blood_group": "B-",
+                "confidence": 83.30451250076294,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_1.png"
+            },
+            {
+                "timestamp": "2025-11-21 13:09:39",
+                "blood_group": "O-",
+                "confidence": 98.11944365501404,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-21 16:23:07",
+                "blood_group": "B-",
+                "confidence": 48.80552589893341,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-21 16:23:19",
+                "blood_group": "A+",
+                "confidence": 100.0,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_16.png"
+            },
+            {
+                "timestamp": "2025-11-21 16:23:34",
+                "blood_group": "A+",
+                "confidence": 100.0,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_16.png"
+            },
+            {
+                "timestamp": "2025-11-21 16:23:41",
+                "blood_group": "A+",
+                "confidence": 99.98444318771362,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_26.png"
+            },
+            {
+                "timestamp": "2025-11-21 16:23:58",
+                "blood_group": "AB-",
+                "confidence": 99.99470710754395,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B-/cluster_3_7.png"
+            },
+            {
+                "timestamp": "2025-11-21 16:24:12",
+                "blood_group": "A+",
+                "confidence": 100.0,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_16.png"
+            },
+            {
+                "timestamp": "2025-11-21 19:15:07",
+                "blood_group": "O-",
+                "confidence": 99.4633436203003,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB+/cluster_4_4.png"
+            },
+            {
+                "timestamp": "2025-11-21 19:15:26",
+                "blood_group": "O-",
+                "confidence": 95.92727422714233,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB+/cluster_4_12.png"
+            },
+            {
+                "timestamp": "2025-11-21 19:15:45",
+                "blood_group": "O-",
+                "confidence": 77.31108069419861,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-21 19:15:52",
+                "blood_group": "O-",
+                "confidence": 77.31108069419861,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-21 19:15:53",
+                "blood_group": "O-",
+                "confidence": 77.31108069419861,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-21 19:15:53",
+                "blood_group": "O-",
+                "confidence": 77.31108069419861,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-21 19:15:54",
+                "blood_group": "O-",
+                "confidence": 77.31108069419861,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-21 19:16:07",
+                "blood_group": "A+",
+                "confidence": 99.99997615814209,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_26.png"
+            },
+            {
+                "timestamp": "2025-11-21 19:16:14",
+                "blood_group": "A+",
+                "confidence": 100.0,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_16.png"
+            },
+            {
+                "timestamp": "2025-11-21 19:16:27",
+                "blood_group": "A+",
+                "confidence": 99.99979734420776,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_116.png"
+            },
+            {
+                "timestamp": "2025-11-21 19:16:43",
+                "blood_group": "O-",
+                "confidence": 77.31108069419861,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-21 19:16:52",
+                "blood_group": "O-",
+                "confidence": 77.31108069419861,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-22 11:29:41",
+                "blood_group": "A+",
+                "confidence": 100.0,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_16.png"
+            },
+            {
+                "timestamp": "2025-11-22 11:47:27",
+                "blood_group": "A+",
+                "confidence": 99.99997615814209,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_26.png"
+            },
+            {
+                "timestamp": "2025-11-22 12:02:17",
+                "blood_group": "A+",
+                "confidence": 99.99997615814209,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_26.png"
+            },
+            {
+                "timestamp": "2025-11-22 12:02:27",
+                "blood_group": "O-",
+                "confidence": 77.31108069419861,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-11-24 11:40:54",
+                "blood_group": "A+",
+                "confidence": 99.99997615814209,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_26.png"
+            },
+            {
+                "timestamp": "2025-12-04 21:46:11",
+                "blood_group": "A+",
+                "confidence": 99.99668598175049,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_26.png"
+            },
+            {
+                "timestamp": "2025-12-04 21:46:24",
+                "blood_group": "A-",
+                "confidence": 99.99922513961792,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_5.png"
+            },
+            {
+                "timestamp": "2025-12-04 21:46:36",
+                "blood_group": "B-",
+                "confidence": 99.97664093971252,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB-/cluster_5_8.png"
+            },
+            {
+                "timestamp": "2025-12-04 21:46:49",
+                "blood_group": "AB+",
+                "confidence": 56.21858835220337,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B+/cluster_2_6.png"
+            },
+            {
+                "timestamp": "2025-12-04 21:47:08",
+                "blood_group": "O-",
+                "confidence": 98.03143739700317,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/O-/cluster_7_9.png"
+            },
+            {
+                "timestamp": "2025-12-04 21:47:25",
+                "blood_group": "O+",
+                "confidence": 98.81019592285156,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/O+/cluster_6_3.png"
+            },
+            {
+                "timestamp": "2025-12-04 21:47:40",
+                "blood_group": "AB-",
+                "confidence": 99.99880790710449,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B-/cluster_3_7.png"
+            },
+            {
+                "timestamp": "2025-12-04 21:47:51",
+                "blood_group": "AB+",
+                "confidence": 56.21858835220337,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B+/cluster_2_6.png"
+            },
+            {
+                "timestamp": "2025-12-05 15:26:57",
+                "blood_group": "O-",
+                "confidence": 97.01173901557922,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-12-05 15:27:05",
+                "blood_group": "O-",
+                "confidence": 97.01173901557922,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-12-05 15:30:04",
+                "blood_group": "O-",
+                "confidence": 97.01173901557922,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-12-06 10:33:08",
+                "blood_group": "A-",
+                "confidence": 92.12180376052856,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2025-12-06 10:38:53",
+                "blood_group": "A+",
+                "confidence": 98.64055514335632,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_26.png"
+            },
+            {
+                "timestamp": "2025-12-06 10:39:06",
+                "blood_group": "O-",
+                "confidence": 98.67932200431824,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/O-/cluster_7_9.png"
+            },
+            {
+                "timestamp": "2025-12-06 10:39:17",
+                "blood_group": "O+",
+                "confidence": 98.9820122718811,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/O+/cluster_6_3.png"
+            },
+            {
+                "timestamp": "2025-12-06 10:39:29",
+                "blood_group": "AB-",
+                "confidence": 99.88017082214355,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B-/cluster_3_7.png"
+            },
+            {
+                "timestamp": "2025-12-06 10:39:44",
+                "blood_group": "O-",
+                "confidence": 67.79038906097412,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB+/cluster_4_4.png"
+            },
+            {
+                "timestamp": "2026-01-08 18:53:38",
+                "blood_group": "A-",
+                "confidence": 92.12180376052856,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2026-01-08 18:54:06",
+                "blood_group": "A+",
+                "confidence": 98.64055514335632,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_26.png"
+            },
+            {
+                "timestamp": "2026-01-08 18:54:16",
+                "blood_group": "AB-",
+                "confidence": 99.88017082214355,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B-/cluster_3_7.png"
+            },
+            {
+                "timestamp": "2026-01-08 18:54:27",
+                "blood_group": "O-",
+                "confidence": 98.67932200431824,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/O-/cluster_7_9.png"
+            },
+            {
+                "timestamp": "2026-01-08 18:54:38",
+                "blood_group": "O+",
+                "confidence": 98.9820122718811,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/O+/cluster_6_3.png"
+            },
+            {
+                "timestamp": "2026-01-08 18:54:50",
+                "blood_group": "AB+",
+                "confidence": 44.284480810165405,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B+/cluster_2_6.png"
+            },
+            {
+                "timestamp": "2026-01-08 18:55:00",
+                "blood_group": "B-",
+                "confidence": 99.01350140571594,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB-/cluster_5_31.png"
+            },
+            {
+                "timestamp": "2026-01-08 18:55:16",
+                "blood_group": "AB-",
+                "confidence": 99.99088048934937,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B-/cluster_3_18.png"
+            },
+            {
+                "timestamp": "2026-01-08 19:30:41",
+                "blood_group": "AB-",
+                "confidence": 99.99896287918091,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/B-/cluster_3_7.png"
+            },
+            {
+                "timestamp": "2026-01-09 12:46:35",
+                "blood_group": "A-",
+                "confidence": 89.37177062034607,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A-/cluster_1_0.png"
+            },
+            {
+                "timestamp": "2026-01-09 12:49:07",
+                "blood_group": "A+",
+                "confidence": 99.99815225601196,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/A+/cluster_0_26.png"
+            },
+            {
+                "timestamp": "2026-01-09 12:49:28",
+                "blood_group": "O-",
+                "confidence": 98.74888062477112,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/O-/cluster_7_9.png"
+            },
+            {
+                "timestamp": "2026-01-09 12:50:05",
+                "blood_group": "B-",
+                "confidence": 94.90965604782104,
+                "image_path": "C:/Users/HP/OneDrive/Desktop/BloodGroupDetection/dataset/AB-/cluster_5_31.png"
+            }
+        ]
+    }
+}

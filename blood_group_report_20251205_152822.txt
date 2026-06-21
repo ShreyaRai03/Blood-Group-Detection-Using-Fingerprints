@@ -1,0 +1,29 @@
+
+BLOOD GROUP DETECTION REPORT
+==================================================
+
+User: Shreya
+Date: 2025-12-05 15:27:05
+
+DETECTION RESULTS:
+--------------------------------------------------
+Blood Group: O-
+Confidence: 97.01%
+
+Image: cluster_1_0.png
+
+SYSTEM INFORMATION:
+--------------------------------------------------
+Model: Deep Learning CNN
+Input: Fingerprint Image (128x128 pixels)
+Processing: Automated feature extraction
+Classification: 8-class blood group prediction
+
+DISCLAIMER:
+--------------------------------------------------
+This is a research/educational system. Results should
+be verified by professional medical testing. Do not
+use for clinical diagnosis without proper validation.
+
+==================================================
+End of Report
