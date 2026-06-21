@@ -58,20 +58,23 @@ BloodGroupDetection/
 
 ##  How to Run the Project
 
+##### Clone the repository
 ```bash
-# Clone the repository
 git clone https://github.com/ShreyaRai03/BloodGroupDetection.git
 ```
+
+##### Navigate to project directory
 ```bash
-# Navigate to project directory
 cd BloodGroupDetection
 ```
+
+#####  Install dependencies
 ```bash
-# Install dependencies
 pip install -r requirements.txt
 ```
+
+#####  Run the application
 ```bash
-# Run the application
 python main.py
 ```
 
