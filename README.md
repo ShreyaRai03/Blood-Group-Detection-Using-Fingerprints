@@ -10,7 +10,7 @@ To explore biometric-based prediction by analyzing fingerprint structures and bu
 
 ---
 
-##  Tech Stack
+##  Technologies Used
 - Python  
 - OpenCV  
 - NumPy  
@@ -36,11 +36,18 @@ To explore biometric-based prediction by analyzing fingerprint structures and bu
 ##  How to Run the Project
 ```bash
 git clone https://github.com/ShreyaRai03/BloodGroupDetection.git
+```
+```
 cd BloodGroupDetection
+```
+```
 pip install -r requirements.txt
+```
+```
 python main.py
-
+```
 ---
+
 ### Project Structure
 
 ```
@@ -52,14 +59,16 @@ BloodGroupDetection/
 ├── requirements.txt
 └── README.md
 ```
+
 ---
 
 ### Results
+- The model demonstrates the ability to classify fingerprint patterns into corresponding blood group categories using machine learning techniques trained on the dataset.
 
-- The model successfully classifies fingerprint patterns into corresponding blood group categories with reasonable accuracy based on the trained dataset.
+---
 
 ### Future Improvements
-- Improve accuracy using Deep Learning (CNN)
+- Improve accuracy using Deep Learning (CNN-based models)
 - Expand dataset for better generalization
 - Deploy as a web application using Flask or Streamlit
 - Enhance feature extraction techniques
